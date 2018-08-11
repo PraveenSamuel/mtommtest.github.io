@@ -1,0 +1,15 @@
+.init_heading
+{
+	color:#ffffff !important;
+	background: #834d9b; /* fallback for old browsers */
+  	background: -webkit-linear-gradient(to right, #834d9b, #d04ed6); /* Chrome 10-25, Safari 5.1-6 */
+  	background: linear-gradient(to right, #834d9b, #d04ed6);
+}
+.init_subtitle
+{
+	color:#000000 !important;
+
+	background: #ffb600; /* fallback for old browsers */
+  	background: -webkit-linear-gradient(to right, #ffb600, #b8da00); /* Chrome 10-25, Safari 5.1-6 */
+  	background: linear-gradient(to right, #ffb600, #b8da00)
+}
